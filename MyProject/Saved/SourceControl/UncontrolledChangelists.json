@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/t_lefevre1/Documents/Unreal Projects/MyProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/t_lefevre1/Documents/Unreal Projects/MyProject/Content/GI_MyGI.uasset",
+				"C:/Users/t_lefevre1/Documents/Unreal Projects/MyProject/Content/Core/GI_MyGI.uasset",
+				"C:/Users/t_lefevre1/Documents/Unreal Projects/MyProject/Content/CommandPattern/BP_Unit.uasset",
+				"C:/Users/t_lefevre1/Documents/Unreal Projects/MyProject/Content/Core/BFL_Library.uasset",
+				"C:/Users/t_lefevre1/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/AM/IKTX9KPNQGC21IR0BETCGT.uasset",
+				"C:/Users/t_lefevre1/Documents/Unreal Projects/MyProject/Content/CommandPattern/BPC_Command.uasset",
+				"C:/Users/t_lefevre1/Documents/Unreal Projects/MyProject/Content/CommandPattern/ICommand.uasset",
+				"C:/Users/t_lefevre1/Documents/Unreal Projects/MyProject/Content/CommandPattern/Move_Command.uasset"
+			]
+		}
+	]
+}
